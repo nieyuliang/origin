@@ -60,7 +60,8 @@ git remote -v
 git remote add xxx [远程仓库git地址]
 建立关联
 
-
+                                               我的仓库地址：https://github.com/nieyuliang/ceshi.git
+                                                            https://github.com/nieyuliang/origin.git
 
 git remote remove  xxx
 移除关联
